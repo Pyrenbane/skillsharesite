@@ -1,0 +1,21 @@
+body{
+  background-color: #97e1ea;
+}
+h1{
+  font-size: 30px;
+  color: #E67E22;
+}
+h2{
+  font-size: 25px;
+  color: red;
+}
+p{
+  font-family: fantasy;
+  color: #5DADE2;
+}
+a{
+  color: hotpink;
+}
+.uppercase{
+  text-transform: uppercase;
+}
