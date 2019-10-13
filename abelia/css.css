@@ -5,17 +5,17 @@ header a{
   font-family: 'Caveat', cursive;
 }
 /* MENU BAR CSS */
-ul {
+header ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #e27d60;
 }
-li {
+header li {
   float: left;
 }
-li a {
+header li a {
   display: block;
   color: white;
   text-align: center;
@@ -23,6 +23,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+header li a:hover {
   background-color: #111;
 }
