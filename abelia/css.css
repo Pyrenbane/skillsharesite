@@ -1,0 +1,42 @@
+header{
+  font-family: 'Permanent Marker', cursive;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  background-color: #41b3a3;
+  font-size: 50px;
+  margin: 0;
+}
+
+header{
+  background-color: #c38d9e;
+  padding-bottom: 25px;
+}
+
+header a{
+  font-family: 'Caveat', cursive;
+}
+/* MENU BAR CSS */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #e27d60;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
