@@ -1,20 +1,6 @@
 header{
   font-family: 'Permanent Marker', cursive;
 }
-
-h1{
-  text-align: center;
-  color: white;
-  background-color: #41b3a3;
-  font-size: 50px;
-  margin: 0;
-}
-
-header{
-  background-color: #c38d9e;
-  padding-bottom: 25px;
-}
-
 header a{
   font-family: 'Caveat', cursive;
 }
